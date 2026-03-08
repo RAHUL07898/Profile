@@ -54,7 +54,7 @@ Two-player game with win detection and reset option.
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/THAMMALI RAHUL
+- 💼 LinkedIn: https://linkedin.com/in/THAMMALIRAHUL
 - 📧 Email: thammalirahul@gmail.com
 
 ---
